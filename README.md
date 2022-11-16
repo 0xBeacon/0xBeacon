@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://i.imgur.com/fCAT0aa.gif)
+
+
+
+
 <!--
 **0xBeacon/0xBeacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

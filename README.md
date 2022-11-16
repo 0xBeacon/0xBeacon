@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![](https://i.imgur.com/fCAT0aa.gif)
 
